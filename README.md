@@ -128,11 +128,6 @@ Client-side data persistence
 
 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/your-username/InsightFlow.git
-
-
 Open the project directory.
 
 Launch index.html in your browser.
